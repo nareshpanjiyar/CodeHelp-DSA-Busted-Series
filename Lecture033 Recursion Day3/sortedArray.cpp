@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//what if size is not given in refrences
+
 bool isSorted(int arr[], int size) {
 
     //base case
@@ -16,6 +18,7 @@ bool isSorted(int arr[], int size) {
     }
 
 }
+
 
 int main() {
 
